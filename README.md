@@ -2,7 +2,13 @@
 
 #VQA: Visual Question Answer:
 
+Visual Question Answering with Question Representation Update (QRU)
+Paper: https://papers.nips.cc/paper/6261-visual-question-answering-with-question-representation-update-qru.pdf
 
+
+Survey
+FVQA: Fact-based Visual Question Answering
+https://arxiv.org/pdf/1606.05433.pdf
 
 #VQG
 1.Generating Natural Questions About an Image
@@ -15,7 +21,35 @@ Paper: https://arxiv.org/pdf/1603.06059.pdf
 
 Paper:https://www.ijcai.org/proceedings/2017/0592.pdf
 
+3. Neural Self Talk: Image Understanding via Continuous Questioning and Answering
+
+Paper: https://pdfs.semanticscholar.org/6861/552bf6730529d3fac5d6f2bb7e0f491edea2.pdf
+
+4. Question Generation via Overgenerating Transformations and Ranking
+
+paper: https://www.lti.cs.cmu.edu/sites/default/files/cmulti09013.pdf
+
+Code:
+1. https://github.com/JamesChuanggg/VQG-tensorflow
+
+Blog: 
+
+http://cjds.github.io/image%20recognition/machine%20learning/2016/05/02/Visual-Question-Generation/
+
 #Dialog
+1. Visual Dialog
+
+paper: https://arxiv.org/pdf/1611.08669.pdf
+
+2. Deep Reinforcement Learning for Dialogue Generation
+
+paper: https://arxiv.org/pdf/1606.01541.pdf
+
+Multi-Layer Dialog Generation for Non-Visual Web Access
+
+Paper: http://dl.acm.org/citation.cfm?id=1196153
+
+http://delivery.acm.org/10.1145/1200000/1196153/p20-borodin.pdf?ip=103.246.106.9&id=1196153&acc=ACTIVE%20SERVICE&key=045416EF4DDA69D9%2E6454B2DFDB9CC807%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35&CFID=940869340&CFTOKEN=46601584&__acm__=1502957609_93d381d4acab13ddf0d35c51a1fa5605
 
 #Image Caption
 1. Improved Image Captioning via Policy Gradient optimization of SPIDEr
@@ -65,4 +99,12 @@ Commonsense in Parts: Mining Part-Whole Relations from the Web and Image Tags
 
 Paper: http://www.aaai.org/ocs/index.php/AAAI/AAAI16/paper/download/12337/11590
 
+Other:
+Multiple Object Recognition with Visual Attention
+https://arxiv.org/abs/1412.7755
 
+
+
+Good Slide:
+
+1. https://www.slideshare.net/hemanth4/ayurveda-simplified
