@@ -108,3 +108,16 @@ https://arxiv.org/abs/1412.7755
 Good Slide:
 
 1. https://www.slideshare.net/hemanth4/ayurveda-simplified
+
+
+
+When Not to Use Deep Learning
+http://www.scoop.it/t/data-science-58
+http://www.datasciencecentral.com/profiles/blogs/when-not-to-use-deep-learning
+
+
+Reinforcement learning for complex goals, using TensorFlow
+
+http://www.scoop.it/t/data-science-58
+
+
